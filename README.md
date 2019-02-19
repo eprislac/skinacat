@@ -41,4 +41,5 @@ I'm hoping that in the course of doing this crazy thing, I'll not only be sharin
 - Scala
 - Sed
 - vb.net
-<sub>* NOTE: Every language will not be represented in every project- for instance, LifeForm, which is an excersise in object creation, class  inheritacnce, and interfaces, will concern only object oriented langauges, while the projects from <a href="projecteuler.org" targe="_blank">Project Euler</a>, which are all math-related, will be covered by a broader scope. Of course, it also all depends on my level of interest; I get bored easily.</sub>
+
+<sub>* __NOTE:__ Every language will not be represented in every project- for instance, LifeForm, which is an excersise in object creation, class  inheritacnce, and interfaces, will concern only object oriented langauges, while the projects from <a href="projecteuler.org" targe="_blank">Project Euler</a>, which are all math-related, will be covered by a broader scope. Of course, it also all depends on my level of interest; I get bored easily.</sub>
