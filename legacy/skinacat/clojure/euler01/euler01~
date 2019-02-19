@@ -1,8 +1,0 @@
-(def num 0)
-(def sum 0)
-(for [num (range 1000)] (
-	inc num
-	if ([num] rem 3 == 0|| [num] rem 5 == 0)
-		sum = sum + num
-	))
-	(println sum)
