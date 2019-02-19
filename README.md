@@ -14,9 +14,9 @@ I'm hoping that in the course of doing this crazy thing, I'll not only be sharin
  - __FizzBuzz__
    - Another beginner program, but with a twist... I'm attempting to do it with no if/else structures. four languages covered so far, with more to come
  - __Legacy Projects__
-   - When I first created this project years ago, I had a few other projects I was attempting, which have been (mostly) abandoned
-      - __LifeForm:__ An excersise in object creation, class inheritance, and interfaces. (included unit testing)
-      - __Project Euler:__ Excersises from [Project Euler](http://projecteuler.com), the main inspiration for this project. I may be picking these back up.
+   - When I first created this project seven years ago, I had a few other projects I was attempting, which have been (mostly) abandoned
+      - __LifeForm:__ An excercise in class inheritance, deleted. I was so damned embarrassed of the c-sharp and c++ code when I went back and read it, and have no intention of doing so much php code ever again.
+      - __Euler:__ Excersises from [Project Euler](http://projecteuler.com), the main inspiration for this project. I may be picking these back up.
 
 ### Languages Covered: #
 - Awk
@@ -42,4 +42,4 @@ I'm hoping that in the course of doing this crazy thing, I'll not only be sharin
 - Sed
 - vb.net
 
-<sub>* __NOTE:__ Every language will not be represented in every project- for instance, LifeForm, which is an excersise in object creation, class  inheritacnce, and interfaces, will concern only object oriented langauges, while the projects from <a href="projecteuler.org" targe="_blank">Project Euler</a>, which are all math-related, will be covered by a broader scope. Of course, it also all depends on my level of interest; I get bored easily.</sub>
+<sub>* __NOTE:__ Every language will not be represented in every project, depends on my level of interest; I get bored easily.</sub>

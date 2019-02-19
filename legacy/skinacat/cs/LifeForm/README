@@ -1,9 +1,0 @@
-compile tests with "dmcs /t:exe -r:LifeForm.dll /out:LifeFormTest.exe /pkg:nunit LifeFormTest.cs"
-compile dll with "dmcs /t:library /out LifeForm.dll iLifeForm.cs LifeForm.cs Animal.cs Vertebrate.cs Mammal.cs Reptile.cs Bird.cs"
-compile exe with "dmcs /t:exe -r:LifeForm.dll /out:LifeFormCS.exe LifeFormCS.cs
-
-run LifeFormCS.exe by double-clicking the executable file or typing mono LifeFormCS.exe into the terminal
-
-run TestLifeFormCS.exe by typing "mono TestLifeFormCS.exe <Type {Mammal,Reptile,Bird}> <expected kingdom> <expected phylum> <expected class>" into the terminal
-
-
