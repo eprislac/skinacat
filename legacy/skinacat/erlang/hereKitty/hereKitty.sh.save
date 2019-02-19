@@ -1,8 +1,0 @@
-#!/usr/bin/env escript
-%% -*- erlang -*-
-%%! -smp enable -sname hereKitty -mnesia debug verbose
-
--module(hereKitty).
--export([main/0]).
-hereKitty()->
-		io:format("Here kitty kitty...~n", [
