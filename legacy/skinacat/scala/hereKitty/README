@@ -1,0 +1,5 @@
+hereKitty.scala can be run from the scala shell by typing in "scala hereKitty.scala" 
+in the command line.
+
+hereKitty.sh ios a scala script that can be run directly from the command line by 
+typing "./hereKitty.sh"

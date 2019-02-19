@@ -1,0 +1,13 @@
+#!/usr/bin/awk -f
+BEGIN{
+	num = 0
+	sum = 0
+	for ( num = 0; num < 1000; num++ )
+	{
+		if  (num % 3 == 0 || num % 5 == 0 )
+		{
+			sum = sum + num
+		}
+	}
+	print sum
+}

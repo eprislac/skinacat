@@ -1,0 +1,18 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace LifeFormCS {
+	
+	/// <summary>
+    /// Interface iLifeForm determines the structure of LifeForm and sets a list
+    /// of methods that must be satisfied by classes inheriting from LifeForm. 
+    /// </summary>
+	public interface iLifeForm
+	{
+        void _construct(int _id);
+	}
+	
+}

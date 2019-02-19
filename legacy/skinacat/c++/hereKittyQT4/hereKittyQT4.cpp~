@@ -1,0 +1,29 @@
+// Hell world for the QT framework
+
+#include <QApplication>
+#include <QLabel>
+#include <QPushButton>
+#include <QMainWindow>
+#include <QDockWidget>
+#include <QWidget>
+#include <QAction>
+#include <stdlib.h>
+int main(int argc, char *argv[])
+{
+	QApplication a( argc, argv );
+	
+	QMainWindow *mw = new QMainWindow();
+
+
+	QLabel *l = new QLabel("Here kitty kitty...",mw);
+	mw->setCentralWidget(l);
+
+	mw->show();
+	
+	a.connect( &a, SIGNAL(lastWindowClosed()), &a, SLOT(quit()));
+	
+	return a.exec();
+	
+}
+
+
